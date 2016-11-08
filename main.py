@@ -28,7 +28,8 @@ if __name__ == '__main__':
     from randombot import RandomBot
 
     pos = Position()
-    bot = RandomBot()
+    # bot = RandomBot()
+    bot = AIBot()
     
     while True:
         try:
