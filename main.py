@@ -26,6 +26,7 @@ if __name__ == '__main__':
     import sys
     from position import Position
     from randombot import RandomBot
+    from aibot import AIBot
 
     pos = Position()
     # bot = RandomBot()
